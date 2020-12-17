@@ -1,2 +1,0 @@
-# vizyal
-use bokeh serve
